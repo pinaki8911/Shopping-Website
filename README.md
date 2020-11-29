@@ -1,1 +1,4 @@
 # Shopping-Website
+
+This project is a web based shopping system for an existing shop. The project objective is to deliver the online shopping application into android platform. 
+Online shopping is the process whereby consumers directly buy goods or services from a seller in real-time, without an intermediary service, over the Internet. It is a form of electronic commerce. This project is an attempt to provide the advantages of online shopping to customers of a real shop. It helps buying the products in the shop anywhere through internet by using an android device. Thus the customer will get the service of online shopping and home delivery from his favorite shop in form validation there is a username and password if there is error in defined username or password the page will not open. It is done by using validation codes in php
